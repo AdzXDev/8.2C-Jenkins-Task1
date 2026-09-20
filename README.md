@@ -1,1 +1,1 @@
-Jenkins CI Task
+Jenkins CI Task 1 - Automatic Trigger Test
