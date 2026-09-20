@@ -1,1 +1,1 @@
-Jenkins CI Task 1 - Automatic Trigger Test 2
+Jenkins Poll SCM automatic trigger test
